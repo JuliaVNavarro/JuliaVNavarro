@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Julia!
 - 👀 I’m interested in all things challenging, but I do love naps from time to time.
-- 🌱 I’m currently learning Kotlin and C++, but I have experience in Java and Python programming.
+- 🌱 Currently I have experience in C++, Java, and Python programming.
 - 💞️ I’m looking to collaborate on anything and everything!
 - 📫 You can reach me at navarro.jvn@gmail.com
 
